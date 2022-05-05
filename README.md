@@ -24,7 +24,7 @@ Unity Wave 2022 트레이닝 세션에 대한 안내
 
 #### Oculus Quest 지참자의 준비 사항(선택 사항) 
 - 개인 Oculus Quest1,2 장비
-- Oculus Setup 어플리케이션을 설치
-- USB 3.0을 지원하는 Oculus Link Cable 준비(C to C 권장)
-
+- Oculus Setup 어플리케이션을 설치 ([Oculus.com/setup](http://oculus.com/setup))
+- USB 3.0을 지원하는 Oculus Link Cable 준비([링크 케이블](https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=1&ie=utf8&query=Oculus+link+케이블))
+- 링크 케이블로 유니티와 연동 테스트 후 참석 부탁드립니다. 많은 분들이 참석하시기에 현장에서 응대하기가 어렵습니다. 
 
