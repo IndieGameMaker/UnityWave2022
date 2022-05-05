@@ -9,6 +9,7 @@ Unity Wave 2022 트레이닝 세션에 대한 안내
 - 실습용 노트북 (Window OS, Mac OS)
 - 유니티 설치 (2021.3.x, 2021.2.15 이상)
 - Visual Studio, Visual Studio Code, Rider 에디터 설치
+- (권장) git 설치 ([www.git-scm.com](http://www.git-scm.com))
 
 ### 공지사항
 - 강연장소의 리모델링으로 인해 Wifi가 제공되지 않습니다.
