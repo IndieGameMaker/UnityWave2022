@@ -21,6 +21,7 @@ Unity Wave 2022 트레이닝 세션에 대한 안내
 
 #### 미리 다운로드 받을 파일
 - [스타터 패키지](StarterPack.unitypackage)
+- [리소스 패키지](ResourcePack.unitypackage)
 
 #### Oculus Quest 지참자의 준비 사항(선택 사항) 
 - 개인 Oculus Quest1,2 장비
