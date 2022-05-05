@@ -7,11 +7,9 @@ Unity Wave 2022 트레이닝 세션에 대한 안내
 ### 세션 참석 전 준비 사항
 
 - 실습용 노트북 (Window OS, Mac OS)
-- 유니티 설치
+- 유니티 설치 (2021.3.x, 2021.2.15 이상)
 - Visual Studio, Visual Studio Code, Rider 에디터 설치
 
-### Oculus Quest 지참자의 준비 사항(선택 사항) 
-- 선택사항으로 개인 Oculus Quest 장비로 직접 실습하실 분들은 미리 Oculus Setup 어플리케이션을 설치하고 참석하셔야 합니다.
 
 강연장소의 리모델링으로 인해 Wifi가 제공되지 않습니다.
 주최측에서 KT Egg를 제공할 예정이나 원할하지 않을 수 있기에
@@ -23,6 +21,10 @@ Unity Wave 2022 트레이닝 세션에 대한 안내
 
 #### 미리 다운로드 받을 파일
 
-#### 오큘러스 퀘스트2 장비 지참자의 준비사항
+
+#### Oculus Quest 지참자의 준비 사항(선택 사항) 
+- 개인 Oculus Quest1,2 장비
+- Oculus Setup 어플리케이션을 설치
+- USB 3.0을 지원하는 Oculus Link Cable 준비(C to C 권장)
 
 
