@@ -29,3 +29,8 @@ Unity Wave 2022 트레이닝 세션에 대한 안내
 - USB 3.0을 지원하는 Oculus Link Cable 준비([링크 케이블](https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=1&ie=utf8&query=Oculus+link+케이블))
 - 링크 케이블로 유니티와 연동 테스트 후 참석 부탁드립니다. 
 
+#### 강연 PPT
+- 강연 PPT는 UnityWave 2022가 종료된 후 Unity Square에서 일괄적으로 배포합니다. 배포시점에 링크주소를 연결해드리겠습니다.
+
+#### 강연 프로젝트 소스
+- [5월9일 세션 프로젝트 소스 다운로드](https://github.com/IndieGameMaker/UnityWave2022_XRInteraction.git)
